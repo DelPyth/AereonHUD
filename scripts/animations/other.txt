@@ -1,0 +1,51 @@
+event FlagOutline
+{
+  RunEvent FlagOutlineHide 0.0
+  Animate OutlineImage Alpha    "0"         Linear 0.1 0.2
+
+  Animate OutlineImage Position "c-200 140" Linear 0.1 0.2
+  Animate OutlineImage Size     "400 200"   Linear 0.1 0.2
+
+  Animate OutlineImage Position "c-50 r137" Linear 0.7 0.2
+  Animate OutlineImage Position "c-50 r158" Linear 0.7 0.2
+  Animate OutlineImage Size     "100 50"    Linear 0.7 0.2
+
+  Animate OutlineImage Alpha    "0"         Linear 0.9 0.1
+}
+
+//====================================================================================================================
+
+event HudSpyDisguiseChanged
+{
+  Animate PlayerStatusSpyOutlineImage Alpha    "0"       Linear 0.0 0.2
+
+  Animate PlayerStatusSpyOutlineImage Position "0 r200"  Linear 0.0 0.2
+  Animate PlayerStatusSpyOutlineImage Size     "200 200" Linear 0.0 0.2
+
+  RunEvent HudSpyDisguiseHide 0.7
+}
+
+//====================================================================================================================
+
+event HudTournamentSetupPanelOpen
+{
+  Animate HudTournamentSetup Position "c-43 -70" Linear 0.0 0.001
+  Animate HudTournamentSetup Position "c-43 92"  Spline 0.001 0.2
+}
+
+event HudTournamentSetupPanelClose
+{
+  Animate HudTournamentSetup Position "c-43 92"  Linear 0.0 0.001
+  Animate HudTournamentSetup Position "c-43 -70" Spline 0.001 0.2
+}
+
+//====================================================================================================================
+
+// restore animations on death
+event CompetitiveGame_RestoreChatWindow
+{
+    RunEvent HudHealthDyingPulseStop 0.1
+    RunEvent HudHealthBonusPulseStop 0.1
+    RunEvent HudLowAmmoPulseStop 0.1
+    RunEvent HudMedicChargedStop 0.1
+}
