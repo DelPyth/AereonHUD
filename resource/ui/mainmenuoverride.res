@@ -1,5 +1,7 @@
 #base "preload.res"
 
+#base "../../#customizations/friendslist.res"
+
 "Resource/UI/MainMenuOverride.res"
 {
   "MainMenuOverride"
