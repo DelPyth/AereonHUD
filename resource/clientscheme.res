@@ -4635,22 +4635,22 @@
 
   CustomFontFiles
   {
-    "100"
+    "18"
     {
       "font" 		"resource/fonts/Blocks.ttf"
       "name" 		"Blocks"
     }
-    "110"
+    "19"
     {
       "font" 		"resource/fonts/Catamaran-Regular.ttf"
       "name" 		"Catamaran Regular"
     }
-    "120"
+    "20"
     {
-      "font" 		"resource/fonts/Catamaran-Regular.ttf"
-      "name" 		"Catamaran Regular"
+      "font" 		"resource/fonts/Catamaran-Semibold.ttf"
+      "name" 		"Catamaran Semibold"
     }
-    "130"
+    "21"
     {
       "font" 		"resource/fonts/Catamaran-Bold.ttf"
       "name" 		"Catamaran Bold"
