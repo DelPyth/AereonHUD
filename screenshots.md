@@ -1,33 +1,33 @@
 # Main Menu
-![main-menu](#screenshots/main-menu.jpg "Main Menu")
+<img src="#screenshots/main-menu.jpg">
 
 # Server Info
-![server-info](#screenshots/server-info.jpg "Server Info")
+<img src="#screenshots/server-info.jpg">
 
 # Map Info
-![map-info](#screenshots/map-info.jpg "Map Info")
+<img src="#screenshots/map-info.jpg">
 
 # Team Selection
-![team-selection](#screenshots/team-select.jpg "Team Selection")
+<img src="#screenshots/team-select.jpg">
 
 # Class Selection
-![class-selection](#screenshots/class-select.jpg "Class Selection")
+<img src="#screenshots/class-select.jpg">
 
 # Normal Health and Ammo
-![normal-health-ammo](#screenshots/normal.jpg "Normal Health and Ammo")
+<img src="#screenshots/normal.jpg">
 
 # Low Health and Ammo
-![low-health-ammo](#screenshots/low.jpg "Low Health and Ammo")
+<img src="#screenshots/low.jpg">
 
 # Overheal
-![overheal](#screenshots/overheal.jpg "Overheal")
+<img src="#screenshots/overheal.jpg">
 
 # Disguise
-![disguise](#screenshots/disguise1.jpg "Disguise Selection")
-![disguise](#screenshots/disguise2.jpg "Disguise Display")
+<img src="#screenshots/disguise1.jpg">
+<img src="#screenshots/disguise2.jpg">
 
 # Demoman Stickies
-![demoman-stickies](#screenshots/demo-sticky.jpg "Demoman Stickies")
+<img src="#screenshots/demo-sticky.jpg">
 
 # Taunt
-![taunt](#screenshots/taunt.jpg "Taunt")
+<img src="#screenshots/taunt.jpg">
