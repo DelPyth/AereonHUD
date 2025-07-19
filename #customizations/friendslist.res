@@ -13,5 +13,5 @@
 // The default hud does not have this shown.
 // Uncomment only one line.
 
-#base "#changes/friendslist/on.res"
-// #base "#changes/friendslist/off.res"
+// #base "#changes/friendslist/on.res"
+#base "#changes/friendslist/off.res"
