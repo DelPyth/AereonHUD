@@ -34,7 +34,7 @@
     "wide"            "10"
 
     // Set this to "1" to show the crosshair.
-    "visible"         "0"
+    "visible"         "1"
   }
 
   // Custom crosshair image
@@ -62,6 +62,6 @@
     "wide"            "24"
 
     // Set this to "1" to show the crosshair.
-    "visible"         "0"
+    "visible"         "1"
   }
 }

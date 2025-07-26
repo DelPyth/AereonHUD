@@ -2,8 +2,13 @@
 
 "#customizations/#changes/damage/off.res"
 {
-  "DamageAccountAnchor"
+  "DamageAccountValue"
   {
 		"visible"                 "0"
 	}
+
+  "DamageAccountValueShadow"
+  {
+    "visible"                 "0"
+  }
 }

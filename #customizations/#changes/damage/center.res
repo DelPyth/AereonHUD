@@ -4,7 +4,7 @@
 {
   "DamageAccountAnchor"
   {
-    "xpos"                    "cs-0.5"
+    "xpos"                    "c-25"
     "ypos"                    "c60"
 	}
 }

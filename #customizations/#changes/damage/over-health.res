@@ -1,6 +1,6 @@
 #base "base.res"
 
-"#customizations/#changes/damage/over-ammo.res"
+"#customizations/#changes/damage/over-health.res"
 {
   "DamageAccountAnchor"
   {
