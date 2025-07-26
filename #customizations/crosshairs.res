@@ -34,7 +34,7 @@
     "wide"            "10"
 
     // Set this to "1" to show the crosshair.
-    "visible"         "1"
+    "visible"         "0"
   }
 
   // Custom crosshair image
@@ -44,7 +44,7 @@
     "fieldname"       "CustomCrosshairImageShadow"
     "xpos"            "cs-0.5"
     "ypos"            "cs-0.5"
-    "zpos"            "3"
+    "zpos"            "2"
     "tall"            "o1"
     "scaleImage"      "1"
     "alpha"           "255"
@@ -62,6 +62,6 @@
     "wide"            "24"
 
     // Set this to "1" to show the crosshair.
-    "visible"         "1"
+    "visible"         "0"
   }
 }
