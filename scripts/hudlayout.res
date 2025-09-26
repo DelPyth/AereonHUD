@@ -4,6 +4,7 @@
 #base "../#customizations/speedometer.res"
 #base "../#customizations/position.res"
 #base "../#customizations/crosshairs.res"
+#base "../#customizations/transparent-vm.res"
 
 "Resource/HudLayout.res"
 {
@@ -268,8 +269,8 @@
 		"tall"										"200"
 		"visible"									"1"
 		"enabled"									"1"
-		"separator_width"							"5"
-		"separator_height"							"5"
+		"separator_width"							"1"
+		"separator_height"							"1"
 		"height_offset"								"0"
 	}
 
@@ -292,7 +293,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-225"
-		"ypos"					"20"
+		"ypos"					"r207"
 		"wide"					"450"
 		"tall"					"218"
 	}

@@ -1,0 +1,17 @@
+"#customizations/#changes/transparent-vm/high.res"
+{
+  "TransparentVM"
+	{
+		"ControlName"                      "ImagePanel"
+		"fieldName"                        "TransparentVM"
+		"xpos"                             "0"
+		"ypos"                             "0"
+		"zpos"                             "-100"
+		"wide"                             "f0"
+		"tall"                             "f0"
+		"scaleImage"                       "1"
+		"image"                            "replay/thumbnails/transparent_high"
+		"visible"                          "1"
+		"enabled"                          "1"
+	}
+}

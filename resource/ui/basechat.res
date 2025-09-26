@@ -22,7 +22,7 @@
 		"enabled" 		"1"
 		"xpos"			"2"
 		"ypos"			"395"
-		"wide"	 		"f0"
+		"wide"	 		"200"
 		"tall"	 		"2"
 		"font"			"ChatFont"
 		"PaintBackgroundType"	"0"
