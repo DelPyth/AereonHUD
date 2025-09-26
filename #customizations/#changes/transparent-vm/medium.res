@@ -10,7 +10,7 @@
 		"wide"                             "f0"
 		"tall"                             "f0"
 		"scaleImage"                       "1"
-		"image"                            "replay/thumbnails/transparent_medium"
+		"image"                            "replay/thumbnails/transparent_vm/transparent_medium"
 		"visible"                          "1"
 		"enabled"                          "1"
 	}
