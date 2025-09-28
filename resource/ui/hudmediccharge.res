@@ -1,11 +1,10 @@
 "Resource/UI/HudMedicCharge.res"
 {
-    "MedicBG"
+	"MedicBG"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"MedicBG"
-		"xpos"		"9999"		[$OSX]
-		"xpos"		"c-64"		[!$OSX]
+		"xpos"		"c-64"
 		"ypos"		"352"
 		"zpos"		"2"
 		"wide"		"118"
@@ -16,8 +15,8 @@
 		"enabled"		"0"
 		"defaultBgColor_Override"		"HudBGStatus"
 		"border_default"				"noborder"
-		"PaintBackgroundType""0"
-        "textinsety" "99"
+		"PaintBackgroundType" "0"
+		"textinsety" "99"
 	}
 	"ChargeLabelTiny"
 	{

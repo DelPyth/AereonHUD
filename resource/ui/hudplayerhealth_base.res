@@ -86,7 +86,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"HudPlayerHealth"
-		"fgcolor"		"Black"
+		"fgcolor"		"HealthNumbersBg"
 		"pin_to_sibling"	"PlayerStatusHealthValue"
 	}
 
