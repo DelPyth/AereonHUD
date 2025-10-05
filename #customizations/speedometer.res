@@ -13,7 +13,7 @@
 // The file names do not indicated where it will show on the HUD, just what velocity it will show.
 // Uncomment only one line.
 
-#base "#changes/speedo/speedo_absolute_center.res"
+// #base "#changes/speedo/speedo_absolute_center.res"
 // #base "#changes/speedo/speedo_absolute_left.res"
 // #base "#changes/speedo/speedo_absolute_right.res"
 // #base "#changes/speedo/speedo_horizontal_center.res"
@@ -33,8 +33,8 @@
 		"xpos"       "cs-0.5"   // Centered to the screen based on the width of the speedometer itself.
 		"ypos"       "c130"      // Just slightly below the center of the screen.
 
-    // // Don't want the speedometer to show?
-    // // Comment out all of the `#base` files above, OR change the visible value to 0.
+    // Don't want the speedometer to show?
+    // Comment out all of the `#base` files above, OR change the visible value to 0.
     "visible"    "0"
   }
 }
