@@ -19,6 +19,16 @@
 
 
 // ----------------------------------------------------------------------------
+// >> TEAM CROSS
+// On the default hud, this is the team colored background behind the health and class portrait.
+// This hud changes it to a team colored outline cross.
+// Uncomment only one line.
+
+// #base "#changes/health/team-cross/ON.res"
+#base "#changes/health/team-cross/OFF.res"
+
+
+// ----------------------------------------------------------------------------
 // >> HEALTH BONUS CROSS
 // This is the semi-transparent white or red cross that shows around the health cross when you have overheal or health below 50%.
 // Option 1 moves it behind the health number.
@@ -26,6 +36,6 @@
 // Option 3 removes it completely.
 // Uncomment only one line.
 
-#base "#changes/health/bonus-cross/HP.res"
+// #base "#changes/health/bonus-cross/HP.res"
 // #base "#changes/health/bonus-cross/HC.res"
-// #base "#changes/health/bonus-cross/OFF.res"
+#base "#changes/health/bonus-cross/OFF.res"

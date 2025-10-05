@@ -1,4 +1,4 @@
-"#customizations/health_cross/off.res"
+"#customizations/health-cross/off.res"
 {
 	"PlayerStatusHealthImage"
 	{
