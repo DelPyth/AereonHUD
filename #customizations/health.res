@@ -36,6 +36,6 @@
 // Option 3 removes it completely.
 // Uncomment only one line.
 
-// #base "#changes/health/bonus-cross/HP.res"
+#base "#changes/health/bonus-cross/HP.res"
 // #base "#changes/health/bonus-cross/HC.res"
-#base "#changes/health/bonus-cross/OFF.res"
+// #base "#changes/health/bonus-cross/OFF.res"
