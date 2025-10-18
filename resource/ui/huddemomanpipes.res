@@ -6,6 +6,8 @@
 		"FieldName"									"ChargeMeter"
 		"XPos"										"cs-0.5"
 		"YPos"										"c125-4"
+		"XPos_Minmode"						"cs-0.5"
+		"YPos_Minmode"						"c125-4"
 		"ZPos"										"2"
 		"Wide"										"140"
 		"Tall"										"2"
@@ -41,6 +43,8 @@
 		"FieldName"									"PipesPresentPanel"
 		"XPos"										"0"
 		"YPos"										"0"
+		"XPos_Minmode"						"0"
+		"YPos_Minmode"						"0"
 		"ZPos"										"1"
 		"Wide"										"f0"
 		"Tall"										"f0"
@@ -52,6 +56,8 @@
 			"FieldName"								"NumPipesLabel"
 			"XPos"									"cs-0.5"
 			"YPos"									"c90"
+			"XPos_Minmode"					"cs-0.5"
+			"YPos_Minmode"					"c90"
 			"ZPos"									"2"
 			"Wide"									"30"
 			"Tall"									"20"
@@ -61,7 +67,7 @@
 			"LabelText"								"%activepipes%"
 			"TextAlignment"							"center"
 			"Font"									"Aereon_16"
-			"FGColor"								"Metal"
+			"FGColor"								"AmmoInReserve"
 		}
 		"NumPipesLabelDropshadow"
 		{
@@ -69,6 +75,8 @@
 			"FieldName"								"NumPipesLabelDropshadow"
 			"XPos"									"-1"
 			"YPos"									"-1"
+			"XPos_Minmode"					"-1"
+			"YPos_Minmode"					"-1"
 			"ZPos"									"2"
 			"Wide"									"30"
 			"Tall"									"20"
@@ -78,7 +86,7 @@
 			"LabelText"								"%activepipes%"
 			"TextAlignment"							"center"
 			"Font"									"Aereon_16"
-			"FGColor"								"Black"
+			"FGColor"								"AmmoInReserveBg"
 
 			"Pin_To_Sibling"						"NumPipesLabel"
 		}
