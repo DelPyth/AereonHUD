@@ -31,7 +31,7 @@
 
     // Change me to whatever size you want your crosshair to be.
     // Don't worry about the 'tall' key-value. It will use 'wide' as it's value.
-    "wide"            "10"
+    "wide"            "20"
 
     // Set this to "1" to show the crosshair.
     "visible"         "0"
@@ -59,7 +59,7 @@
 
     // Change me to whatever size you want your crosshair to be.
     // Don't worry about the 'tall' key-value. It will use 'wide' as it's value.
-    "wide"            "24"
+    "wide"            "44"
 
     // Set this to "1" to show the crosshair.
     "visible"         "0"

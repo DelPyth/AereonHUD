@@ -36,6 +36,7 @@
         "name"		  "Catamaran SemiBold"
         "tall"		  "20"
         "antialias"	"1"
+				"weight"    "1000"
       }
     }
 

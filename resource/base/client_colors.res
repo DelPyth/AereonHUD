@@ -4,42 +4,42 @@
   {
     "TanLight"                         "235 235 235 255"
     "TanDarker"                        "042 042 042 255"
-
-    "HealthNumbers"                    "235 235 235 255"
-    "HealthNumbersHigh"                "004 130 067 255"
+    "HealthNumbers"                    "255 255 255 255"
+    "HealthNumbersHigh"                "055 148 255 255"
     "HealthNumbersLow"                 "255 067 069 255"
-		"HealthNumbersBg"                  "000 000 000 255"
-
-    "AmmoInClip"                       "235 235 235 255"
+		"HealthNumbersExtra"               "024 024 024 255"
+		"HealthNumbersExtraHigh"           "024 024 024 255"
+		"HealthNumbersExtraLow"            "024 024 024 255"
+		"HealthNumbersBg"                  "024 024 024 255"
+		"HealthNumbersBgHigh"              "024 024 024 255"
+		"HealthNumbersBgLow"               "024 024 024 255"
+    "AmmoInClip"                       "255 255 255 255"
     "AmmoInClipLow"                    "255 067 069 255"
-		"AmmoInClipBg"                     "000 000 000 255"
+		"AmmoInClipBg"                     "024 024 024 255"
+		"AmmoInClipBgLow"                  "024 024 024 255"
     "AmmoInReserve"                    "150 150 150 255"
     "AmmoInReserveLow"                 "255 067 069 255"
-		"AmmoInReserveBg"                  "000 000 000 255"
-    "AmmoNoClip"                       "235 235 235 255"
+		"AmmoInReserveBg"                  "024 024 024 255"
+		"AmmoInReserveBgLow"               "024 024 024 255"
+    "AmmoNoClip"                       "255 255 255 255"
     "AmmoNoClipLow"                    "255 067 069 255"
-		"AmmoNoClipBg"                     "000 000 000 255"
-
-    "Ubercharge"                       "235 235 235 255"
-    "FullUbercharge"                   "004 130 067 255"
-    "UberchargeBar"                    "004 130 067 255"
-
+		"AmmoNoClipBg"                     "024 024 024 255"
+		"AmmoNoClipBgLow"                  "024 024 024 255"
+    "Ubercharge"                       "255 255 255 255"
+    "FullUbercharge"                   "055 148 255 255"
+    "UberchargeBar"                    "055 148 255 255"
     "Black"                            "000 000 000 255"
     "Blank"                            "000 000 000 000"
-
     "AereonRed"                        "200 065 055 200"
     "AereonRedS"                       "200 065 055 255"
-
     "AereonBlue"                       "086 133 201 200"
     "AereonBlueS"                      "086 133 201 255"
-
     "DarkGreen"                        "060 193 115 255"
     "LightGreen"                       "000 255 100 255"
     "Low"                              "255 200 070 255"
     "LightGray"                        "212 212 212 255"
     "Metal"                            "137 159 179 255"
     "Gray"                             "165 165 165 255"
-
 		"HudBackground"                    "000 000 000 160"
   }
 }
