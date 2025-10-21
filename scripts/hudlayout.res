@@ -8,6 +8,19 @@
 
 "Resource/HudLayout.res"
 {
+	"dev"
+	{
+		"controlName" "editablepanel"
+		"fieldName"  "dev"
+		"xpos" "cs-0.5"
+		"ypos" "0"
+		"wide" "2"
+		"tall" "f0"
+		"visible" "0"
+		"enabled" "0"
+		"bgcolor_override"  "0 0 0 255"
+	}
+
 	HudDeathNotice
 	{
 		"fieldName" 								"HudDeathNotice"
@@ -41,12 +54,12 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c80"
-		"ypos"	"r183"
-		"xpos_minmode"	"c80"
-		"ypos_minmode"	"r183"
-		"wide"	"320"
-		"tall"	"120"
+		"xpos"	"0"
+		"ypos"	"0"
+		"xpos_minmode"	"0"
+		"ypos_minmode"	"0"
+		"wide"	"f0"
+		"tall"	"f0"
 	}
 
 	HudKothTimeStatus
@@ -77,12 +90,24 @@
 		"fieldName"		"HudMedicCharge"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"			"5"		//c-95
-		"ypos"			"2"		//"r164"
+		"xpos"			"0"
+		"ypos"			"0"
+		"xpos_minmode"			"0"
+		"ypos_minmode"			"0"
 		"wide"			"f0"
-		"tall"			"600"		//100
+		"tall"			"f0"
 		"MeterFG"		"White"
 		"MeterBG"		"Black"
+	}
+
+	"HudDemomanPipes"
+	{
+		"XPos"										"0"
+		"YPos"										"0"
+		"XPos_Minmode"						"0"
+		"YPos_Minmode"						"0"
+		"Wide"										"f0"
+		"Tall"										"f0"
 	}
 
 	HudDemomanCharge
@@ -92,9 +117,13 @@
 		"enabled"		"1"
 		"xpos"			"cs-0.5"
 		"ypos"			"r125-4"
+		"XPos_Minmode"						"cs-0.5"
+		"YPos_Minmode"						"r40-3"
 		"zpos"			"2"
 		"wide"			"140"
 		"tall"			"10"
+		"wide_minmode"			"140"
+		"tall_minmode"			"10"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -127,13 +156,12 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"5"
-		"ypos"					"435"
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"  				"f0"
 		"visible" 				"1"
 		"enabled" 				"1"
-		"PaintBackgroundType"	"2"
 	}
 
 	HudDamageIndicator
@@ -390,14 +418,6 @@
 		"wide"										"470"
 		"tall"										"200"
 		"PaintBackgroundType"						"0"
-	}
-
-	"HudDemomanPipes"
-	{
-		"XPos"										"0"
-		"YPos"										"0"
-		"Wide"										"f0"
-		"Tall"										"f0"
 	}
 
 	HudTournament

@@ -1,5 +1,18 @@
 "Resource/UI/HudAmmoWeapons.res"
 {
+	"AmmoAnchor"
+	{
+		"controlName" "EditablePanel"
+		"fieldName"   "AmmoAnchor"
+		"xpos"        "c80"
+		"ypos"        "r183"
+		"ypos_minmode" "r83"
+		"wide"        "0"
+		"tall"        "0"
+		"visible"     "1"
+		"enabled"     "1"
+	}
+
 	"AmmoInClip"
 	{
 		"ControlName"	"CExLabel"
@@ -7,7 +20,7 @@
 		"font"			"HudAmmoWeaponNormal"
 		"fgcolor"		"AmmoInClip"
 		"xpos"			"0"
-		"ypos"			"32"
+		"ypos"			"-32"
 		"zpos"			"5"
 		"wide"			"64"
 		"tall"			"68"
@@ -16,6 +29,7 @@
 		"textAlignment"	"east"
 		"textinsetx"	"5"
 		"labelText"		"%Ammo%"
+		"pin_to_sibling"  "AmmoAnchor"
 	}
 	"AmmoInClipShadow"
 	{
