@@ -1,5 +1,5 @@
 // ============================================================================
-// HUD Crosshair customizations
+// HUD Color customizations
 // ----------------------------------------------------------------------------
 // How to:
 // 1. Navigate to the individual color you choose to change on the hud.

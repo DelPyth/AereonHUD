@@ -24,11 +24,11 @@
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
-				
+
 			"actionsignallevel"		"2"
 			"command"		"show_leaderboards"
 			"labeltext"		"#TF_Competitive_ViewLeaderboards"
-			"font"			"ProductBold12"
+			"font"			"Aereon_12Bold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
@@ -51,7 +51,7 @@
 			"actionsignallevel"		"2"
 			"command"		"show_match_history"
 			"labeltext"		"#TF_Competitive_ViewMatches"
-			"font"			"ProductBold12"
+			"font"			"Aereon_12Bold"
 			"fgcolor_override"	"TanLight"
 			"textAlignment"	"center"
 
@@ -130,7 +130,7 @@
 					"visible"		"1"
 					"paintbackground"	"0"
 					"mouseinputenabled"	"0"
-			
+
 					"labeltext"			"6"
 					"font"				"MarlettSmall"
 					"textAlignment"		"west"
@@ -151,10 +151,10 @@
 					"proportionaltoparent"	"1"
 					"visible"		"1"
 					"paintbackground"	"0"
-					"border_default"		"SortCategoryBorder"	
-			
+					"border_default"		"SortCategoryBorder"
+
 					"labeltext"			"#TF_Competitive_Result"
-					"font"				"ProductBold12"
+					"font"				"Aereon_12Bold"
 					"fgcolor_override"	"141 63 63 255"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
@@ -184,11 +184,11 @@
 					"tall"			"18"
 					"proportionaltoparent"	"1"
 					"visible"		"1"
-					"paintbackground"	"0"	
+					"paintbackground"	"0"
 					"border_default"		"SortCategoryBorder"
-			
+
 					"labeltext"			"#TF_Competitive_Date"
-					"font"				"ProductBold12"
+					"font"				"Aereon_12Bold"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
@@ -202,7 +202,7 @@
 					"image_drawcolor"		"0 0 0 0"
 
 					"command"	"sort1"
-					"actionsignallevel"	"4"	
+					"actionsignallevel"	"4"
 
 					"sound_depressed"	"UI/buttonclick.wav"
 					"sound_released"	"UI/buttonclickrelease.wav"
@@ -220,9 +220,9 @@
 					"visible"		"1"
 					"paintbackground"	"0"
 					"border_default"		"SortCategoryBorder"
-			
+
 					"labeltext"			"#TF_Competitive_Map"
-					"font"				"ProductBold12"
+					"font"				"Aereon_12Bold"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"		"west"
 					"textinsetx"		"15"
@@ -253,9 +253,9 @@
 					"proportionaltoparent"	"1"
 					"visible"		"1"
 					"paintbackground"	"0"
-			
+
 					"labeltext"			"#TF_Competitive_KDR"
-					"font"				"ProductBold12"
+					"font"				"Aereon_12Bold"
 					"fgcolor_override"	"TanLight"
 					"textAlignment"		"west"
 
@@ -304,14 +304,14 @@
 					{
 						"fgcolor_override"	"White"
 					}
-		
+
 					"UpButton"
 					{
 						"ControlName"	"Button"
 						"FieldName"		"UpButton"
 						"visible"		"0"
 					}
-		
+
 					"DownButton"
 					{
 						"ControlName"	"Button"
@@ -329,7 +329,6 @@
 				"ypos"			"7"
 				"wide"			"p0.95"
 				"tall"			"p0.89"
-				"tall"			"f20"
 				"visible"		"0"
 				"enabled"		"1"
 				"mouseinputenabled" "1"
